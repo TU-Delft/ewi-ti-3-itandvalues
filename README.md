@@ -12,3 +12,7 @@ Als je mee wil werken, leuk! Je krijgt de LaTeX zo aan de praat:
 * Compileer de boel met xelatex.
 
 Pull requests zijn welkom.
+
+## Random plaatje
+
+![Plato](http://static5.quoteswave.com/wp-content/uploads/2011/12/I-used-to-do-drugs.jpg "Plato")
