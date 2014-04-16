@@ -3,7 +3,7 @@ ethiek-en-recht-bullet-points
 
 Ethiek en Recht bullet points
 
-## Complilen enzo
+## Compilen enzo
 
 Als je mee wil werken, leuk! Je krijgt de LaTeX zo aan de praat:
 
